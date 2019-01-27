@@ -3,7 +3,16 @@ An R package to calculate kin relationships from vital rates.
 
 Abstract to PAA paper can be found [here.](https://p-chung.com/paa/2019/abstract/)
 
-# How to use
+# How to install R package
+This package is not on CRAN. To install, use `devtools`:
+
+```
+# If you have not installed devtools, uncomment the line below
+# install.packages("devtools")
+devtools::install_github("MJAlexander/kindr")
+```
+
+# Usage
 
 TODO
 
