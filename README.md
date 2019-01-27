@@ -10,6 +10,6 @@ TODO
 # Authors
 
 
--   [Paul Chung](https://paulchung.org/) (![Github](http://i.imgur.com/9I6NRUm.png): [mjalexander](https://github.com/p-chung) | ![Twitter](http://i.imgur.com/wWzX9uB.png): [@monjalexander](https://twitter.com/P_Chung))
+-   [Paul Chung](https://paulchung.org/) (![Github](http://i.imgur.com/9I6NRUm.png): [p-chung](https://github.com/p-chung) | ![Twitter](http://i.imgur.com/wWzX9uB.png): [@P_Chung](https://twitter.com/P_Chung))
 -   [Monica Alexander](http://monicaalexander.com) (![Github](http://i.imgur.com/9I6NRUm.png): [mjalexander](https://github.com/mjalexander) | ![Twitter](http://i.imgur.com/wWzX9uB.png): [@monjalexander](https://twitter.com/monjalexander))
 
